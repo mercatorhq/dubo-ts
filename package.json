@@ -1,0 +1,10 @@
+{
+  "name": "dubo",
+  "version": "0.0.1",
+  "description": "JS API for dubo (https://dubo.gg)",
+  "main": "index.js",
+  "repository": "https://github.com/mercatorhq/dubo-js",
+  "author": "duber@mercator.tech",
+  "license": "MIT",
+  "private": false
+}
